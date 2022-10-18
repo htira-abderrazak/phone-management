@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1557720965 source:c:\users\asus\desktop\windows\mini2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"liste.h"
+	"partie0.h"
+	"partie1.h"
+	"partie2.h"
+	"partie3.h"
+	"partie4.h"
+
+1557746316 source:c:\users\asus\desktop\mini\mini2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"liste.h"
+	<conio.h>
+	"partie0.h"
+	"partie1.h"
+	"partie2.h"
+	"partie3.h"
+	"partie4.h"
+	<conio.h>
+
+1557742716 source:c:\users\asus\desktop\programation\mini\mini2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"liste.h"
+	<conio.h>
+	"partie0.h"
+	"partie1.h"
+	"partie2.h"
+	"partie3.h"
+	"partie4.h"
+	<conio.h>
+
